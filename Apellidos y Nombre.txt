@@ -1,3 +1,7 @@
 Nombre: Jeremy	
 Apellidos: Ramos Segura
 Curso: 1DAM
+
+Nombre: Daniel
+Apellidos: Carmona Rodriguez
+Curso: 1DAM
